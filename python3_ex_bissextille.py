@@ -2,6 +2,7 @@
 # -*-coding:Utf-8 -*
 
 # Programme testant si une année, saisie par l'utilisateur, est bissextile ou non
+# Test de commit
 
 annee = input("Saisissez une année : ") # On attend que l'utilisateur saisisse l'année qu'il désire tester
 annee = int(annee) # Risque d'erreur si l'utilisateur n'a pas saisi un nombre
